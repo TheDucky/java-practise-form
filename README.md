@@ -1,7 +1,7 @@
 # java-practice-form
 A great place to practice your java skills 
 
-###  Questions and Exercises from:- 
+###  Questions and Exercises from :~ 
 
 - [w3resource java-exercises][exp1]
 - [w3schools JavaExercise][#exp2]

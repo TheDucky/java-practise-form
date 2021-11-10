@@ -9,4 +9,4 @@ A great place to practice your java skills
 <!-- Resources -->
 
 [exp1]: https://www.w3resource.com/java-exercises/basic/index.php
-[exp2]: https://www.w3schools.com/java/exercise.asp?filename=exercise_syntax1
+[exp2]: https://www.w3schools.com/java/exercise.asp

@@ -4,7 +4,7 @@ A great place to practice your java skills
 ###  Questions and Exercises from :~ 
 
 - [w3resource java-exercises][exp1]
-- [w3schools JavaExercise][#exp2]
+- [w3schools JavaExercise][exp2]
 
 <!-- Resources -->
 

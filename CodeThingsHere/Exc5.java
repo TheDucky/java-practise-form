@@ -1,8 +1,18 @@
-public class B1Q1 {
+import java.util.Scanner;
+
+public class Exc5 {
 
     public static void main(String[] args) {
-        System.out.println("Hello");
-        System.out.println("name: daksh | AKA-TheDucky");
+        System.out.println("~~ MULTIPLYING NUMBERS ~~");
+        Scanner scan = new Scanner(System.in);
+
+        System.out.print("Input First Number: ");
+        int fn = scan.nextInt();
+        System.out.print("Input Second Number: ");
+        int sn = scan.nextInt();
+
+        int sum = fn * sn;
+        System.out.println(fn + " x " + sn + " = " + sum);
     }
 }
 

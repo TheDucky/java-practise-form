@@ -1,4 +1,4 @@
-public class B1Q2 {
+public class Exc2 {
 
     public static void main(String[] args) {
         System.out.println("~~ ADDING 2 NUMBERS ~~");

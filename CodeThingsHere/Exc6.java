@@ -11,13 +11,19 @@ public class Exc6
         int fn = sc.nextInt();
         System.out.print("Input Second Number: ");
         int sn = sc.nextInt();
-
+        
         int add = fn + sn;
         int sub = fn - sn;
+        int mlt = fn * sn;
+        int dev = fn / sn;
+        int rmd = fn % sn;
+
         System.out.println("~~ OUTPUT ~~\n");
         System.out.println(fn + " + " + sn + " = " + add);
         System.out.println(fn + " - " + sn + " = " + sub);
-
+        System.out.println(fn + " x " + sn + " = " + mlt);
+        System.out.println(fn + " / " + sn + " = " + dev);
+        System.out.println(fn + " mod " + sn + " = " + dev);
     }
 }
 

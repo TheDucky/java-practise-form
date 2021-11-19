@@ -9,7 +9,7 @@ public class Exc2 {
 }
 
 /*
-2. Write a Java program to print the sum of two numbers. Go to the editor
+2. Write a Java program to print the sum of two numbers.
 Test Data:
 74 + 36
 Expected Output :

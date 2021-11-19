@@ -11,7 +11,7 @@ public class Exc6
         int fn = sc.nextInt();
         System.out.print("Input Second Number: ");
         int sn = sc.nextInt();
-        
+
         int add = fn + sn;
         int sub = fn - sn;
         int mlt = fn * sn;
@@ -29,7 +29,7 @@ public class Exc6
 
 
 /*
-6. Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers. 
+6. Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers.
 Test Data:
 Input first number: 125
 Input second number: 24

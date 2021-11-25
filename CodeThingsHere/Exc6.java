@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class Exc6
-{
-    public static void main(String[] args)
-    {
+public class Exc6 {
+
+    public static void main(String[] args) {
+
         System.out.println("~~ ALL MATH PROCEDURES ~~");
         Scanner sc = new Scanner(System.in);
 
@@ -24,6 +24,7 @@ public class Exc6
         System.out.println(fn + " x " + sn + " = " + mlt);
         System.out.println(fn + " / " + sn + " = " + dev);
         System.out.println(fn + " mod " + sn + " = " + dev);
+        
     }
 }
 

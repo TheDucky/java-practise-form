@@ -6,11 +6,11 @@ public class Exc8 {
 
         //(°F − 32) × 5/9 = °C
         Scanner scan = new Scanner(System.in);
-        System.out.print("Enter Fahrenheit: ");
+        System.out.print("Input a degree in Fahrenheit: ");
         double fr = scan.nextDouble();
 
         double cl = (fr - 32) * 5/9;
-        System.out.print("Fahrenheit = " + fr + "| Celsius = " + cl);
+        System.out.println("Fahrenheit = " + fr + " | Celsius = " + cl);
     }
 }
 

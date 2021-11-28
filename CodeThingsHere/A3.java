@@ -1,4 +1,4 @@
-public class Exc3 {
+public class A3 {
 
     public static void main(String[] args) {
         System.out.println("~~ DIVIDING 2 NUMBERS ~~");

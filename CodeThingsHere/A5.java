@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exc5 {
+public class A5 {
 
     public static void main(String[] args) {
         System.out.println("~~ MULTIPLYING NUMBERS ~~");

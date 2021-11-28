@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exc7 {
+public class A7 {
 
     public static void main(String[] args) {
 

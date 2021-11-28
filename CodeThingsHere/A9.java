@@ -4,6 +4,8 @@ public class A9 {
 
     public static void main(String[] args) {
 
+        // Average = Sum of All Values/Number of Values
+
         Scanner scan = new Scanner(System.in);
         System.out.print("Input First Number: ");
         double fn = scan.nextDouble();

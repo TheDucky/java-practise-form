@@ -17,7 +17,7 @@ public class Exc8 {
 
 
 /*
-1. Write a Java program to convert temperature from Fahrenheit to Celsius degree. Go to the editor
+8. Write a Java program to convert temperature from Fahrenheit to Celsius degree. Go to the editor
 Test Data
 Input a degree in Fahrenheit: 212
 Expected Output:

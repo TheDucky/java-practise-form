@@ -14,7 +14,7 @@ public class A5 {
         int sum = fn * sn;
         System.out.println(fn + " x " + sn + " = " + sum);
     }
-}
+} 
 
 /*
 5. Write a Java program that takes two numbers as input and display the product of two numbers.

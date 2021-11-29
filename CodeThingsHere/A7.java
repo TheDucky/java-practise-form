@@ -14,7 +14,7 @@ public class A7 {
         }
     }
 }
-
+ 
 
 /*
 7. Write a Java program that takes a number as input and prints its multiplication table upto 10. Go to the editor

@@ -11,7 +11,7 @@ public class A6 {
         int fn = sc.nextInt();
         System.out.print("Input Second Number: ");
         int sn = sc.nextInt();
-
+ 
         int add = fn + sn;
         int sub = fn - sn;
         int mlt = fn * sn;

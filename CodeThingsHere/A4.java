@@ -8,7 +8,7 @@ public class A4 {
         System.out.println(a + "\n" + b + "\n" + c + "\n" + d);
     }
 }
-
+ 
 /*
 4. Write a Java program to print the result of the following operations.
 Test Data:

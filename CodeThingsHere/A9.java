@@ -12,7 +12,7 @@ public class A9 {
 
         System.out.print("Input Second Number: ");
         double sn = scan.nextDouble();
-
+ 
         System.out.print("Input Third Number: ");
         double tn = scan.nextDouble();
 
